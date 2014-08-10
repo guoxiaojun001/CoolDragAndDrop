@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/fuzhaohui/AndroidStudioProjects/CoolDragAndDrop/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-ef0d249a0d4d1d83588ebb4373916cc9b6f73e55.jar"
+        jar="/home/fuzhaohui/android-sdk-linux/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/home/fuzhaohui/AndroidStudioProjects/CoolDragAndDrop/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-482c604bed4b131124a4e3090be9b36f3477c5e9.jar"
+        jar="/home/fuzhaohui/AndroidStudioProjects/CoolDragAndDrop/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/fuzhaohui/AndroidStudioProjects/CoolDragAndDrop/app/build/intermediates/pre-dexed/debug/classes-f002aea1e4018e88214e1d999fa15c726a48be2c.jar"
+        jar="/home/fuzhaohui/AndroidStudioProjects/CoolDragAndDrop/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
